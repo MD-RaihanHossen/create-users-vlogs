@@ -1,0 +1,154 @@
+[
+      {
+        "id": 1,
+        "cover": "https://i.ibb.co.com/MD3jKKc9/oscar-keys-Am-PRUn-Rb6-N0-unsplash.jpg",
+        "author_name": "Raihan Hossen",
+        "author_image": "https://i.ibb.co.com/20ddX8n1/1701158630091-01-2.jpg",
+        "title": "Embracing Change",
+        "post": "Change is the only constant in life. Embrace it, and grow.",
+        "posted_date": "2025-03-29",
+        "hashtags": ["#change", "#growth", "#motivation"]
+      },
+      {
+        "id": 2,
+        "cover": "https://i.ibb.co.com/4ncZ1pLv/suhyeon-choi-G9-XMLUAj-ETM-unsplash.jpg",
+        "author_name": "Bob Smith",
+        "author_image": "https://i.ibb.co.com/zV00sLBB/ed-pylypenko-7zcbtb-I4-E2o-unsplash.jpg",
+        "title": "The Power of Positivity",
+        "post": "A positive mindset can turn obstacles into opportunities.",
+        "posted_date": "2025-03-28",
+        "hashtags": ["#positivity", "#mindset", "#opportunity"]
+      },
+      {
+        "id": 3,
+        "cover": "https://i.ibb.co.com/rfKSYKrH/photo-nic-JQ8-x-G3k-Hjk-unsplash.jpg",
+        "author_name": "Catherine Lee",
+        "author_image": "https://i.ibb.co.com/XfFf8cNL/premium-photo-1671656349322-41de944d259b.jpg",
+        "title": "Learning from Failures",
+        "post": "Every failure is a stepping stone to success.",
+        "posted_date": "2025-03-27",
+        "hashtags": ["#failure", "#success", "#learning"]
+      },
+      {
+        "id": 4,
+        "cover": "https://i.ibb.co.com/h11q4JRN/vladimir-kudinov-x-KOFnb-Nw-Ur-Q-unsplash.jpg",
+        "author_name": "Daniel Brown",
+        "author_image": "https://i.ibb.co.com/hJ4c71W5/alexander-hipp-i-EEBWg-Y-6l-A-unsplash.jpg",
+        "title": "Consistency is Key",
+        "post": "Success is built on daily habits and consistency.",
+        "posted_date": "2025-03-26",
+        "hashtags": ["#consistency", "#habits", "#success"]
+      },
+      {
+        "id": 5,
+        "cover": "https://i.ibb.co.com/fd6n9mXp/alice-alinari-ap-Yi-DRNa-p-Y-unsplash.jpg",
+        "author_name": "Emma Davis",
+        "author_image": "https://i.ibb.co.com/4wvYq5nF/alex-suprun-ZHv-M3-XIOHo-E-unsplash.jpg",
+        "title": "The Beauty of Simplicity",
+        "post": "Simplicity brings clarity and peace to life.",
+        "posted_date": "2025-03-25",
+        "hashtags": ["#simplicity", "#clarity", "#peace"]
+      },
+      {
+        "id": 6,
+        "cover": "https://i.ibb.co.com/dshPjL6X/offscreen-magazine-io-Jrxd-QO4-ME-unsplash.jpg",
+        "author_name": "Frank Miller",
+        "author_image": "https://i.ibb.co.com/VbCh7JT/michael-dam-m-EZ3-Po-FGs-k-unsplash.jpg",
+        "title": "Hard Work Pays Off",
+        "post": "There are no shortcuts to success, only hard work and perseverance.",
+        "posted_date": "2025-03-24",
+        "hashtags": ["#hardwork", "#perseverance", "#success"]
+      },
+      {
+        "id": 7,
+        "cover": "https://i.ibb.co.com/S455vDRb/christopher-campbell-Cp-LUHPRp-WM-unsplash.jpg",
+        "author_name": "Grace Wilson",
+        "author_image": "https://i.ibb.co.com/zVQzHrHN/christopher-campbell-r-DEOVt-E7v-Os-unsplash.jpg",
+        "title": "The Magic of Gratitude",
+        "post": "Gratitude turns what we have into enough.",
+        "posted_date": "2025-03-23",
+        "hashtags": ["#gratitude", "#happiness", "#contentment"]
+      },
+      {
+        "id": 8,
+        "cover": "https://i.ibb.co.com/1YSW70Gw/cody-board-UMl-XDGx-Y6-Kc-unsplash.jpg",
+        "author_name": "Henry Clark",
+        "author_image": "https://i.ibb.co.com/M0BRtbK/premium-photo-1664541336896-b3d5f7dec9a3.jpg",
+        "title": "Dream Big, Start Small",
+        "post": "Every great achievement starts with a single step.",
+        "posted_date": "2025-03-22",
+        "hashtags": ["#dreambig", "#startsmall", "#achieve"]
+      },
+      {
+        "id": 9,
+        "cover": "https://i.ibb.co.com/8gJCpLRv/christopher-campbell-h9-Rx3z-OYZws-unsplash.jpg",
+        "author_name": "Isabella Moore",
+        "author_image": "https://i.ibb.co.com/5gkm8Yfb/linkedin-sales-solutions-p-At-A8xe-i-VM-unsplash.jpg",
+        "title": "Self-Discipline Leads to Freedom",
+        "post": "Mastering self-discipline opens doors to a life of success and fulfillment.",
+        "posted_date": "2025-03-21",
+        "hashtags": ["#selfdiscipline", "#freedom", "#success"]
+      },
+      {
+        "id": 10,
+        "cover": "https://i.ibb.co.com/m57T8Jzt/florian-klauer-mk7-D-4-UCfmg-unsplash.jpg",
+        "author_name": "Jack Turner",
+        "author_image": "https://i.ibb.co.com/M5ct9P7r/christian-buehner-DIt-Ylc26z-VI-unsplash.jpg",
+        "title": "The Importance of Kindness",
+        "post": "A simple act of kindness can change someone's entire day.",
+        "posted_date": "2025-03-20",
+        "hashtags": ["#kindness", "#compassion", "#positivity"]
+      },
+      {
+        "id": 11,
+        "cover": "https://i.ibb.co.com/qLHBYyyp/lars-kaizer-Ao-f-Cl-MP8-Q-unsplash.jpg",
+        "author_name": "Kevin Parker",
+        "author_image": "https://i.ibb.co.com/Y7XJJCbR/christina-wocintechchat-com-SJv-Dxw0azqw-unsplash.jpg",
+        "title": "Overcoming Challenges",
+        "post": "Difficulties prepare ordinary people for extraordinary success.",
+        "posted_date": "2025-03-19",
+        "hashtags": ["#challenges", "#growth", "#success"]
+      },
+      {
+        "id": 12,
+        "cover": "https://i.ibb.co.com/KxBkWctc/kelly-sikkema-9-MWV6k-RUv7-I-unsplash.jpg",
+        "author_name": "Laura White",
+        "author_image": "https://i.ibb.co.com/cSVTp8fY/microsoft-365-b-WL-c09-Ys80-unsplash.jpg",
+        "title": "Believe in Yourself",
+        "post": "Confidence is the key to unlocking your true potential.",
+        "posted_date": "2025-03-18",
+        "hashtags": ["#confidence", "#selfbelief", "#potential"]
+      },
+      {
+        "id": 13,
+        "cover": "https://i.ibb.co.com/nM6V8cNm/stormseeker-r-X12-B5u-X7-QM-unsplash.jpg",
+        "author_name": "Michael Scott",
+        "author_image": "https://i.ibb.co.com/mC6kcst9/microsoft-edge-DNADGmif-Fsc-unsplash.jpg",
+        "title": "Lifelong Learning",
+        "post": "The more we learn, the more we grow.",
+        "posted_date": "2025-03-17",
+        "hashtags": ["#learning", "#growth", "#knowledge"]
+      },
+      {
+        "id": 14,
+        "cover": "https://i.ibb.co.com/Gf5rZhpy/arnel-hasanovic-MNd-Rka1o0-Q-unsplash.jpg",
+        "author_name": "Natalie Foster",
+        "author_image": "https://i.ibb.co.com/zWCsKKW7/aiony-haust-3-TLl-97-HNJo-unsplash.jpg",
+        "title": "Small Steps, Big Impact",
+        "post": "Every small effort brings us closer to success.",
+        "posted_date": "2025-03-16",
+        "hashtags": ["#progress", "#smallsteps", "#impact"]
+      },
+      {
+        "id": 15,
+        "cover": "https://i.ibb.co.com/pv0qgmMJ/efe-kurnaz-Rn-CPi-Xixoo-Y-unsplash.jpg",
+        "author_name": "Oliver Harris",
+        "author_image": "https://i.ibb.co.com/MDQb142n/jessica-felicio-cvw-Xh-Gq-G-o-unsplash.jpg",
+        "title": "Finding Inner Peace",
+        "post": "Happiness comes from within.",
+        "posted_date": "2025-03-15",
+        "hashtags": ["#peace", "#happiness", "#selfcare"]
+      }
+    ]
+
+  
