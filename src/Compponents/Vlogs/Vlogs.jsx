@@ -1,9 +1,9 @@
 import { useEffect } from "react";
 import { useState } from "react";
 import User from '../Vlog/Vlog'
+import PropTypes from 'prop-types'
 
-
-const Vlogs = ({hendleBookMark}) => {
+const Vlogs = ({hendleBookMark, hendleReadTime}) => {
 
     // get users data from public json 
     const [users, setUsers] = useState([])
@@ -23,11 +23,18 @@ const Vlogs = ({hendleBookMark}) => {
                {
                 users.map(user => <User 
                     hendleBookMark={hendleBookMark}
+                    hendleReadTime={hendleReadTime}
                     key={user.id} 
                     user={user}></User>)
                }
         </div>
     );
 };
+
+Vlogs.propTypes = {
+    hendleBookMark : PropTypes.func.isRequired,
+    hendleReadTime : PropTypes.func.isRequired
+}
+
 
 export default Vlogs;

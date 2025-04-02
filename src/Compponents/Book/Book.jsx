@@ -1,4 +1,4 @@
-
+import PropTypes from "prop-types";
 
 const Book = ({vlog}) => {
     const {post} = vlog
@@ -9,6 +9,10 @@ const Book = ({vlog}) => {
             </div>
         </div>
     );
+};
+
+Book.propTypes = {
+    book : PropTypes.object.isRequired
 };
 
 export default Book;

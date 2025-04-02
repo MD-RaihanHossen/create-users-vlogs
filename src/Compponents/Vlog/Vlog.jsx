@@ -3,8 +3,8 @@ import { IoBookmark } from "react-icons/io5";
 
 
 
-const Vlog = ({user , hendleBookMark}) => {
-    const {cover, title, author_name, author_image, posted_date, hashtags} = user
+const Vlog = ({user , hendleBookMark, hendleReadTime}) => {
+    const {cover, title, author_name, author_image, posted_date, hashtags, id} = user
     return (
         <div className='p-4 mb-8 border border-b-blue-700 rounded-3xl'>
             <img className='w-full object-cover rounded-2xl h-[400px]' src={cover} alt="" />
@@ -29,13 +29,16 @@ const Vlog = ({user , hendleBookMark}) => {
                     hashtags.map((hashtag, idx) => <span key={idx} className='mx-1'>{hashtag}</span>)
                 }
             </div>
+            <button onClick={() => hendleReadTime(id)} className='text-2xl font-bold p-2'>read time</button>
         </div>
     );
 };
 
 
 Vlog.propTypes = {
-    vlog : PropTypes.object.isRequired
+    vlog : PropTypes.object.isRequired,
+    hendleBookMark : PropTypes.func.isRequired,
+    hendleReadTime : PropTypes.func.isRequired
 };
 
 
